@@ -1,3 +1,4 @@
+/* modified by Caleb Anderson */
 /*!
  * Start Bootstrap - Grayscale Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
@@ -252,11 +253,11 @@ a:focus {
     padding-top: 100px;
 }
 
-.download-section {
+.process-section {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(/img/downloads-bg.jpg) no-repeat center center scroll;
+    background: url(/img/process-bg.jpg) no-repeat center center scroll;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -275,7 +276,7 @@ a:focus {
         padding-top: 200px;
     }
 
-    .download-section {
+    .process-section {
         padding: 100px 0;
     }
 

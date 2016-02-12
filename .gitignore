@@ -1,3 +1,7 @@
+# modified by Caleb Anderson
+
 _site/
 .sass-cache/
 .jekyll-metadata
+*.sublime-workspace
+Thumbs.db
