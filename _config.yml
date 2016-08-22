@@ -13,14 +13,14 @@ color:
 # Footer settings
 footer: Quaint Robot
 
-Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: github
-    icon: github
-    url: https://github.com/RobotCaleb
-  - title: resume
-    icon: download
-    url: downloads/CalebAnderson-Resume.pdf
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+#   - title: github
+#     icon: github
+#     url: https://github.com/RobotCaleb
+#   - title: resume
+#     icon: download
+#     url: downloads/CalebAnderson-Resume.pdf
 
 # Build settings
 markdown: kramdown
